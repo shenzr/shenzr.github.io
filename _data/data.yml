@@ -132,13 +132,13 @@ publications:
     
     publications:
       - paper:
-        title: [C10] Cross-Rack-Aware Updates in Erasure-Coded Data Centers
+        title: Cross-Rack-Aware Updates in Erasure-Coded Data Centers
         authors: Zhirong Shen, Patrick P.C. Lee
-        conference: in Proc. of the 47th International Conference on Parallel Processing (ICPP'18), Aug. 13~Aug.16, 2018, Oregon, USA.
+        conference: Addison-Wesley, 1968
       - paper:
-        title: [C9] Correlation-Aware Stripe Organization for Efficient Writes in Erasure-Coded Storage Systems
-        authors: Zhirong Shen, Patrick P.C. Lee, Jiwu Shu, Wenzhong Guo 
-        conference: in Proc. of the 36th International Symposium on Reliable Distributed Systems ( SRDS'17 ), Sep. 26~Sep. 29, 2017, Hong Kong, China.
+        title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
       - paper:
         title: A syntax directed compiler for Algol 60
         authors: Edgar T. Irons
